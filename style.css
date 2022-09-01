@@ -32,8 +32,11 @@ main h2 {
 }
 
 .code-ninja-style {
+    .my-style{ 
+        color:blueviolet;
+    }
     color: blue;
-    background-color: lightblue;
+    background-color: black;
     padding: 3px;
 }
 
